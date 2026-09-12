@@ -1,0 +1,19 @@
+.claude/
+.agents/
+
+skills-lock.json
+
+# terraform
+infra/.terraform/
+infra/*.tfstate
+infra/*.tfstate.*
+infra/*.tfvars
+
+# python
+__pycache__/
+*.pyc
+
+# model weights are sourced separately, not committed
+inference/weights/
+
+system.md
