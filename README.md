@@ -1,6 +1,5 @@
-# caughtU
-
 <p align="center">
+  # caughtU
   <strong>CCTV helmet-violation detection pipeline leveraging YOLO-based computer vision and cloud infrastructure.</strong>
 </p>
 
